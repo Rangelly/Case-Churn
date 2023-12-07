@@ -41,7 +41,7 @@ Quais os possíveis planos de ação que a empresa pode fazer para diminuir esse
 * Análise IV(Information Value)
 * Machine Learning (Regressão Logística)
 
-  #AUTOR
+  # AUTOR
   Yago Rangel
 
   Linkedin: https://www.linkedin.com/in/yago-rangel-4300a71a2/
