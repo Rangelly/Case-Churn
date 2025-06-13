@@ -11,7 +11,6 @@ ORDER BY DataUltimaTransacao DESC
 SELECT 
 clientid,
 Estado,
-Gênero,
 Score_Credito AS S_Credito,
 Gênero,
 Idade,
