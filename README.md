@@ -43,8 +43,13 @@ Quais os possíveis planos de ação que a empresa pode fazer para diminuir esse
 
   # AUTOR
   Yago Rangel
-
+  
   Linkedin: https://www.linkedin.com/in/yago-rangel-4300a71a2/
+
+  # Co-Autor
+  Robson Barbosa
+https://www.linkedin.com/in/robson-barbosa-8b8792376/
+
 
 
 
